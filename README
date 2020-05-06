@@ -3,3 +3,4 @@ I completely removed the <div> elements and replaced them with semantic elements
 so the code has a more structured (less cluttered) look to it. 
 Removing the <div> elements did provide a problem since the CSS links had to be changed as well. 
 I also added alt tags to all of the pictures to provide a description of them. 
+Also found that one of the links was missing an ID tag, so I added that. 
